@@ -1,1 +1,3 @@
 # nysonian-erp
+
+npm start
